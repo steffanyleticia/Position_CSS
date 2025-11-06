@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Montserrat" , sans-serif;
-    scroll-padding-top: 9.8rem;
+    scroll-padding-top: 10rem;
     scroll-behavior: smooth;
 }
 
@@ -95,7 +95,7 @@ main {
 
     .pink {
         position: relative;
-        bottom; 3rem;
+        bottom: 3rem;
         right: 3rem;
     }
 }
